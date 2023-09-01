@@ -27,6 +27,7 @@ body {
 
 .side-menu-area {
     width: var(--side-menu-collapsed-width);
+    min-width: var(--side-menu-collapsed-width);
     position: relative;
 }
 
